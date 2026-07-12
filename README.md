@@ -6,7 +6,7 @@
 
 🚀 About Me
 -----------
-Senior infrastructure engineer (SDE-3) turned agentic-task specialist. Currently designing agentic DevOps tasks, RL environments, and evaluation rubrics at **Bespoke Labs** for frontier-model training — recognized as a top performer across a 100+ contractor pool. Previously built **Tessell**'s cloud-native DBaaS platform on GCP from scratch (Employee of the Year, twice fast-track promoted).
+Senior infrastructure engineer (SDE-3) turned agentic-task specialist. Currently designing agentic DevOps tasks, RL environments, and evaluation rubrics at a **US-based AI lab (under NDA)** for frontier-model training — recognized as a top performer across a 100+ contractor pool. Previously built **Tessell**'s cloud-native DBaaS platform on GCP from scratch (Employee of the Year, twice fast-track promoted).
 
 Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environments realistic: the tasks reflect how production infrastructure actually fails.
 
@@ -23,7 +23,7 @@ Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environmen
 --------------------------
 | Role & Organization | |
 |---|---|
-| **Senior Task Developer (Contract)** @ **Bespoke Labs** | Dec 2025 – Present |
+| **Senior Task Developer (Contract)** @ **US-based AI Lab (under NDA)** | Dec 2025 – Present |
 | **SDE-3** @ **Tessell** | Dec 2022 – Feb 2026 |
 | **Software Engineer** @ **Standard Chartered Bank** | Jul 2021 – Nov 2022 |
 
