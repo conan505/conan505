@@ -1,50 +1,46 @@
-👋 Hello! I’m **Rahul Garg**.
+👋 Hello! I'm **Rahul Garg**.
 
-🎯 What I am working on (2025)
+🎯 What I'm working on (2026)
 ------------------------------
-- 🤖 Distributed Systems on AWS and GCP
-- 🧠 Agentic AI & Autonomous Systems
+**I build RL environments and evals that train AI agents** — Dockerized environments, verifiable graders, and DevOps-domain agentic tasks for frontier-model post-training.
 
 🚀 About Me
 -----------
-I’m a **Software Researcher and Engineer** with over 4 years of experience leading end-to-end product development for startups from ideation to deployment, and building projects from architecture design. Currently, I’m building & researching AI agents for Tessell. Passionate about translating complex algorithms into impactful products.
+Senior infrastructure engineer (SDE-3) turned agentic-task specialist. Currently designing agentic DevOps tasks, RL environments, and evaluation rubrics at **Bespoke Labs** for frontier-model training — recognized as a top performer across a 100+ contractor pool. Previously built **Tessell**'s cloud-native DBaaS platform on GCP from scratch (Employee of the Year, twice fast-track promoted).
 
-💼 Professional Experience
+Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environments realistic: the tasks reflect how production infrastructure actually fails.
+
+📂 Proof of Work
+----------------
+- 🏋️ **[devops-gym](https://github.com/conan505/devops-gym)** — Dockerized, verifier-graded DevOps tasks for training AI agents: broken CI pipelines, failing K8s deployments, crashing services. Hidden test-based verifiers, difficulty tiers, reward-hacking-resistant grading.
+- 📊 **[k8s-debug-evals](https://github.com/conan505/k8s-debug-evals)** — reproducible eval harness measuring frontier models on Kubernetes debugging: pass@1 scoring and a failure taxonomy.
+- ✍️ **[Designing Verifiable RL Environments for DevOps Agents](https://rahulgarg.ai/blog/designing-verifiable-rl-environments)** — what separates a rigorous, trainable agentic task from a vibe-coded one.
+- ⚙️ **[k8s-job-scheduler](https://github.com/conan505/k8s-job-scheduler)** — Go HTTP API for prioritizing and submitting Kubernetes jobs (max-heap priority queue, client-go, concurrency control).
+- 🔍 **[Hybrid-RAG](https://github.com/conan505/Hybrid-RAG)** — cost-optimized enterprise search: hybrid retrieval + cost-aware model routing.
+- 🧮 **[vector-db](https://github.com/conan505/vector-db)** — a vector database from scratch in Python: fundamentals, built by hand.
+
+💼 Experience
 --------------------------
-| Role & Organization |
-|---|
-| **Software Development Engineer-3** @ **Tessell** |
-| **Software Engineer** @ **Standard Chartered Bank** |
+| Role & Organization | |
+|---|---|
+| **Senior Task Developer (Contract)** @ **Bespoke Labs** | Dec 2025 – Present |
+| **SDE-3** @ **Tessell** | Dec 2022 – Feb 2026 |
+| **Software Engineer** @ **Standard Chartered Bank** | Jul 2021 – Nov 2022 |
 
-🔗 Connect with Me
-------------------
-- 🌐 Portfolio: [Portfolio](https://rahulgarg.ai/)
+🛠️ Skills & Expertise
+----------------------
+- **Agentic AI:** RL environments, eval design, verifiable graders, rubrics, agentic tasks, MCP
+- **LLM Systems:** RAG, vector DBs, embeddings, reranking, vLLM, LangChain/LangGraph
+- **Programming:** Go, Python, Java, TypeScript
+- **Infrastructure:** Kubernetes, Docker, Terraform, AWS, GCP; distributed systems & microservices
+
+📞 Work with me
+--------------------
+Available for contracts via **Ananta Systems**: per-environment builds, eval design & QA review, and hourly agentic-task development.
+
+- 🌐 Portfolio: [rahulgarg.ai](https://rahulgarg.ai/)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rahul-garg-41412a155/)
 - 🐦 X: [X](https://x.com/rahulgarg7042)
 - 📬 Email: [Mail](mailto:rahulgarg7042@gmail.com)
 
-📂 Proof of Work
-----------------
-
-### Tessell
-**Software Development Engineer-3**
-- Building Database as a Managed Service Platform on GCP
-- Designing Serverless Microservices architecture with no-infrastructure management and minimal cost
-
-### Standard Chartered Bank
-**Software Engineer**
-- Built a Blockchain platform using hyperledger Fabric
-
-
-🛠️ Skills & Expertise
-----------------------
-- **Programming:** Go, Java, Python
-- **Tools:** Kubernetes, Docker, Elastic Search, AWS, GCP
-- **Architecture Frameworks:** Distributed Systems, HLD, LLD, System Engineering
-
-📞 Let’s Collaborate
---------------------
-I’m open to **consulting**, **collaborations**, **speaking engagements**, or just an AI chat.  
-Feel free to reach out via email or connect on my mail!
-
-> "Innovation thrives at the intersection of ideas. Let's build the future together!"
+> "The verifier is the product — the broken deployment is just scenery."
