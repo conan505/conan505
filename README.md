@@ -39,7 +39,7 @@ Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environmen
 
 📞 Work with me
 --------------------
-Available for contracts via **Ananta Systems**: per-environment builds, eval design & QA review, and hourly agentic-task development.
+Open to work on RL environments, agent evals, and distributed inference systems — environment builds, eval design & QA review, and agentic-task development.
 
 - 🌐 Portfolio: [rahulgarg.ai](https://rahulgarg.ai/)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rahul-garg-41412a155/)
