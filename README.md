@@ -4,9 +4,11 @@
 ------------------------------
 **I build RL environments and evals that train AI agents** — Dockerized environments, verifiable graders, and DevOps-domain agentic tasks for frontier-model post-training.
 
+I'm also deep in **distributed LLM inference** — building serving systems from first principles: streaming gateways, routing and overload control, consensus-backed control planes, and paged KV-cache decoding. See [inferLab](https://github.com/conan505/inferLab).
+
 🚀 About Me
 -----------
-Senior infrastructure engineer (SDE-3) turned RL environment engineer. Currently the **quality reviewer** for agentic DevOps tasks, RL environments, and evaluation rubrics at **Bespoke Labs** — promoted from RL environment developer to reviewer after being recognized as a top performer across a 100+ contractor pool. Previously built **Tessell**'s cloud-native DBaaS platform on GCP from scratch (Employee of the Year, twice fast-track promoted).
+Senior infrastructure engineer (SDE-3) turned RL environment engineer. Currently the **quality reviewer** for agentic DevOps tasks, RL environments, and evaluation rubrics at **Bespoke Labs** — promoted from RL environment developer to reviewer after being recognized as a top performer across a 100+ engineer pool. Previously built **Tessell**'s cloud-native DBaaS platform on GCP from scratch (Employee of the Year, twice fast-track promoted).
 
 Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environments realistic: the tasks reflect how production infrastructure actually fails.
 
@@ -24,7 +26,7 @@ Five years of Kubernetes, CI/CD, and cloud debugging is what makes my environmen
 --------------------------
 | Role & Organization | |
 |---|---|
-| **Senior RL Environment Engineer, Reviewer (Contract)** @ **Bespoke Labs** | Dec 2025 – Present |
+| **Senior RL Environment Engineer** @ **Bespoke Labs** | Dec 2025 – Present |
 | **SDE-3** @ **Tessell** | Dec 2022 – Feb 2026 |
 | **Software Engineer** @ **Standard Chartered Bank** | Jul 2021 – Nov 2022 |
 
